@@ -245,7 +245,7 @@ elseif resposta == "2" then
             print(string.format("Vida restante: %d", zombieTabela.vida))
             print()
         elseif pedraResposta1 == "2" then
-            print("Por causa da falta do objetivo, não foi possível jogá-lo.")    
+            print("Por causa da falta do objeto, não foi possível jogá-lo.")    
             print()
         end
     end
